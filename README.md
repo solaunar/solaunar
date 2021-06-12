@@ -9,9 +9,9 @@ My name is Ana Lleshi (or Άννα Λέσι if you may). <br>
 
 ## Stats
 
-<a href="https://github.com/solaunar/solaunar"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solaunar&count_private=true&theme=react&langs_count=6" alt="Top Langs"></a>
-
 <a href="https://github.com/solaunar/solaunar"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=solaunar&show_icons=true&theme=react&count_private=true&hide=prs,contribs" alt="solaunar's GitHub stats"></a>
+
+<a href="https://github.com/solaunar/solaunar"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solaunar&count_private=true&theme=react&langs_count=6" alt="Top Langs"></a>
 
 <!--
 **solaunar/solaunar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
