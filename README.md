@@ -1,8 +1,8 @@
 ### Hello kind visitor 👋
 
 My name is Ana Lleshi (or Άννα Λέσι if you may). <br>
-:computer: Working as a backend developer at Helvia.io. <br>
-:books: In my last year of studies towards a bachelor's degree in Computer Science. <br>
+:computer: Working as a backend developer at Travelport. <br>
+:books: Bachelor's degree in Computer Science from AUEB. <br>
 :link: How to reach me: 
 [Linkedin](https://www.linkedin.com/in/ana-lleshi-8873a7209/) :heavy_minus_sign:
 [Gmail](mailto:anna.lesi2000@gmail.com)
